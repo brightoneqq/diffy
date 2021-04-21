@@ -9,3 +9,4 @@
 * Catch error and exceptions and send emails (maybe pm2 has something already)
 * Fix the bad diff that blocks the site
 
+test
